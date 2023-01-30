@@ -8,6 +8,10 @@ public class Sududent {
         System.out.println("merhaba 2");
         System.out.println(" merhaba 3");
         System.out.println("merhaba 4");
+        toplam(4,6);
 
+    }
+    public static void toplam(int a,int b){
+        System.out.println("toplam " + (a+b));
     }
 }
