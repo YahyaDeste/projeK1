@@ -11,6 +11,7 @@ public class Sududent {
         toplam(4,6);
         System.out.println("merhaba 6");
         System.out.println("merhaba");
+        System.out.println("karacasi");
 
     }
     public static void toplam(int a,int b){
